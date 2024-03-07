@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React , Android , MEARN**
 
-- 📫 How to reach me **muhammadkasati@gamil.com**
+- 📫 How to reach me **muhammadkasati@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
