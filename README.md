@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **React Native**
+
+- 💬 Ask me about **React , Android , MEARN**
+
+- 📫 How to reach me **muhammadkasati@gamil.com**
+
+- ⚡ Fun fact **I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/محمد راسم خساتي" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="محمد راسم خساتي" height="30" width="40" /></a>
@@ -18,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-kasati&show_icons=true&locale=en" alt="muhammad-kasati" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-kasati&" alt="muhammad-kasati" /></p>
-<img src="68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6.gif" alt="muhammad-kasati">
