@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=muhammad-kasati&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding" width="400" />
 
